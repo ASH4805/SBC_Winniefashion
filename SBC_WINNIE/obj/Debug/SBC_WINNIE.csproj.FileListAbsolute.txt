@@ -1,0 +1,14 @@
+C:\Users\T0613\source\repos\SBC_WINNIE\SBC_WINNIE\bin\Debug\SBC_WINNIE.exe.config
+C:\Users\T0613\source\repos\SBC_WINNIE\SBC_WINNIE\bin\Debug\SBC_WINNIE.exe
+C:\Users\T0613\source\repos\SBC_WINNIE\SBC_WINNIE\bin\Debug\SBC_WINNIE.pdb
+C:\Users\T0613\source\repos\SBC_WINNIE\SBC_WINNIE\obj\Debug\SBC_WINNIE.csproj.AssemblyReference.cache
+C:\Users\T0613\source\repos\SBC_WINNIE\SBC_WINNIE\obj\Debug\SBC_WINNIE.Form1.resources
+C:\Users\T0613\source\repos\SBC_WINNIE\SBC_WINNIE\obj\Debug\SBC_WINNIE.Properties.Resources.resources
+C:\Users\T0613\source\repos\SBC_WINNIE\SBC_WINNIE\obj\Debug\SBC_WINNIE.csproj.GenerateResource.cache
+C:\Users\T0613\source\repos\SBC_WINNIE\SBC_WINNIE\obj\Debug\SBC_WINNIE.csproj.CoreCompileInputs.cache
+C:\Users\T0613\source\repos\SBC_WINNIE\SBC_WINNIE\obj\Debug\SBC_WINNIE.exe
+C:\Users\T0613\source\repos\SBC_WINNIE\SBC_WINNIE\obj\Debug\SBC_WINNIE.pdb
+C:\Users\T0613\source\repos\SBC_WINNIE\SBC_WINNIE\bin\Debug\SBC_WINNIE.exe.manifest
+C:\Users\T0613\source\repos\SBC_WINNIE\SBC_WINNIE\bin\Debug\SBC_WINNIE.application
+C:\Users\T0613\source\repos\SBC_WINNIE\SBC_WINNIE\obj\Debug\SBC_WINNIE.exe.manifest
+C:\Users\T0613\source\repos\SBC_WINNIE\SBC_WINNIE\obj\Debug\SBC_WINNIE.application
